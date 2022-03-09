@@ -1,0 +1,36 @@
+.header__logo   {
+    background-color: rgb(206, 184, 195);
+}
+.header {
+    &__logo {
+        max-width: 100%;
+        transition: all 1s;
+        text-align: center;
+    }
+}
+p   {
+    text-align: center;
+    font-size: x-large;
+    font-family: poppins;
+    margin-top: 5%;
+}
+
+h1 {
+    font-weight: 700;
+    font-family: poppins;
+    }
+  
+h2 {
+      font-weight: 600;
+      font-family: poppins;
+      }
+  
+
+
+h5  {
+    text-align: center;
+}
+
+.nav.navbar {
+    margin-top: -10px!important;
+}
